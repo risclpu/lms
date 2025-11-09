@@ -439,7 +439,7 @@ Once testing is implemented, all PRs will require:
 
 ## 🔐 Security
 
-- Report security vulnerabilities to: security@yourdomain.com
+- Report security vulnerabilities to: abhishekghoshedu@gmail.com
 - Do not create public issues for security concerns
 - We will respond within 48 hours
 
