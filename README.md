@@ -484,14 +484,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team & Contact
 
-- **Project Lead**: [Your Name](https://github.com/yourusername)
-- **Contributors**: [See all contributors](https://github.com/yourusername/lms-platform/graphs/contributors)
+- **Project Lead**: [Your Name](https://github.com/codenuclei)
+- **Contributors**: [See all contributors](https://github.com/risclpu/lms/graphs/contributors)
 
 ### Get in Touch
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/lms-platform/discussions)
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/yourusername/lms-platform/issues)
-- 📧 Email: contact@yourdomain.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💬 Discussions: [GitHub Discussions](https://github.com/risclpu/lms/discussions)
+- 🐛 Bug Reports: [GitHub Issues](https://github.com/risclpu/lms/issues)
+- 📧 Email: abhishekghoshedu@gmail.com
 
 ---
 
@@ -507,10 +506,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/lms-platform?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/lms-platform?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/lms-platform)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/lms-platform)
+![GitHub stars](https://img.shields.io/github/stars/github.com/risclpu/lms?style=social)
+![GitHub forks](https://img.shields.io/github/forks/github.com/risclpu/lms?style=social)
+![GitHub issues](https://img.shields.io/github/issues/github.com/risclpu/lms)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/github.com/risclpu/lms)
 
 ---
 
@@ -530,6 +529,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by the LMS Team
 
-[Report Bug](https://github.com/yourusername/lms-platform/issues) · [Request Feature](https://github.com/yourusername/lms-platform/issues) · [Documentation](/docs)
+[Report Bug](https://github.com/risclpu/lms/issues) · [Request Feature](https://github.com/risclpu/lms/issues) · [Documentation](/docs)
 
 </div>
