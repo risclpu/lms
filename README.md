@@ -506,10 +506,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/github.com/risclpu/lms?style=social)
-![GitHub forks](https://img.shields.io/github/forks/github.com/risclpu/lms?style=social)
-![GitHub issues](https://img.shields.io/github/issues/github.com/risclpu/lms)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/github.com/risclpu/lms)
+![GitHub stars](https://img.shields.io/github/stars/risclpu/lms?style=social)
+![GitHub forks](https://img.shields.io/github/forks/risclpu/lms?style=social)
+![GitHub issues](https://img.shields.io/github/issues/risclpu/lms)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/risclpu/lms)
 
 ---
 
